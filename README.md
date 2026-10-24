@@ -1,7 +1,7 @@
 ﻿<!-- ============ HEADER ============ -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&height=240&color=0:000000,45:5C0000,100:E50914&text=Victor%20Reis%20Silva%20de%20Paula&fontColor=ffffff&fontSize=38&fontAlignY=42&desc=Engenharia%20de%20Software%20%E2%80%A2%20PUC%20Minas&descColor=ff4d4d&descSize=18&descAlignY=62&animation=fadeIn" alt="Banner" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rounded&height=220&color=0:000000,50:5C0000,100:E50914&text=Victor%20Reis%20Silva%20de%20Paula&fontColor=ffffff&fontSize=38&fontAlignY=42&desc=Engenharia%20de%20Software%20%E2%80%A2%20PUC%20Minas&descColor=ffb3b3&descSize=18&descAlignY=62&animation=fadeIn" alt="Banner" width="100%"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=E50914&center=true&vCenter=true&width=640&lines=Estudante+de+Engenharia+de+Software;Desenvolvimento+Web+%26+Back-end;Apaixonado+por+aprender+e+construir;Ingl%C3%AAs+fluente+%F0%9F%87%BA%F0%9F%87%B8" alt="Typing animation"/>
 
