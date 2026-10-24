@@ -1,7 +1,9 @@
 ﻿<!-- ============ HEADER ============ -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rounded&height=220&color=0:000000,50:5C0000,100:E50914&text=Victor%20Reis%20Silva%20de%20Paula&fontColor=ffffff&fontSize=38&fontAlignY=42&desc=Engenharia%20de%20Software%20%E2%80%A2%20PUC%20Minas&descColor=ffb3b3&descSize=18&descAlignY=62&animation=fadeIn" alt="Banner" width="100%"/>
+<img src="assets/banner.svg" alt="Victor Reis Silva de Paula - Engenharia de Software, PUC Minas" width="100%"/>
+
+<br/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=E50914&center=true&vCenter=true&width=640&lines=Estudante+de+Engenharia+de+Software;Desenvolvimento+Web+%26+Back-end;Apaixonado+por+aprender+e+construir;Ingl%C3%AAs+fluente+%F0%9F%87%BA%F0%9F%87%B8" alt="Typing animation"/>
 
@@ -124,7 +126,7 @@ HTML · CSS · JavaScript · Java · Python · Node.js · Git · GitHub
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=110&color=0:E50914,50:5C0000,100:000000&section=footer" alt="Footer" width="100%"/>
+<img src="assets/footer.svg" alt="Rodapé" width="100%"/>
 
 </div>
 
