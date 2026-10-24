@@ -7,12 +7,10 @@
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/victor-paula)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/victor-paula-3b6a603b3/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/victor3rp/)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:victorreis200813@gmail.com)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5531997777135)
-
-![Visualizações](https://komarev.com/ghpvc/?username=VCTRPL&label=Visualiza%C3%A7%C3%B5es&color=1F6FEB&style=flat-square)
 
 🇧🇷 **Português** &nbsp;|&nbsp; [🇺🇸 English version ↓](#-english-version)
 
@@ -73,7 +71,7 @@ Estou construindo minha base em programação e desenvolvimento de software, cri
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Conectar-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/victor-paula)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Conectar-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/victor-paula-3b6a603b3/)
 [![Instagram](https://img.shields.io/badge/Instagram-Seguir-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/victor3rp/)
 [![Gmail](https://img.shields.io/badge/E--mail-Enviar-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:victorreis200813@gmail.com)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-Chamar-25D366?style=flat-square&logo=whatsapp&logoColor=white)](https://wa.me/5531997777135)
@@ -116,7 +114,7 @@ HTML · CSS · JavaScript · Java · Python · Node.js · Git · GitHub
 
 ### 📬 Let's connect
 
-[LinkedIn](https://www.linkedin.com/in/victor-paula) · [Instagram](https://www.instagram.com/victor3rp/) · [E-mail](mailto:victorreis200813@gmail.com) · [WhatsApp](https://wa.me/5531997777135)
+[LinkedIn](https://www.linkedin.com/in/victor-paula-3b6a603b3/) · [Instagram](https://www.instagram.com/victor3rp/) · [E-mail](mailto:victorreis200813@gmail.com) · [WhatsApp](https://wa.me/5531997777135)
 
 </details>
 
