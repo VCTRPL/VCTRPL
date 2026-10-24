@@ -1,22 +1,24 @@
-<!-- ============ HEADER ============ -->
+﻿<!-- ============ HEADER ============ -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0D1117,50:1F6FEB,100:58A6FF&text=Victor%20Reis%20Silva%20de%20Paula&fontColor=ffffff&fontSize=40&fontAlignY=38&desc=Engenharia%20de%20Software%20%7C%20PUC%20Minas&descSize=18&descAlignY=58" alt="Banner" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&height=240&color=0:000000,45:5C0000,100:E50914&text=Victor%20Reis%20Silva%20de%20Paula&fontColor=ffffff&fontSize=38&fontAlignY=42&desc=Engenharia%20de%20Software%20%E2%80%A2%20PUC%20Minas&descColor=ff4d4d&descSize=18&descAlignY=62&animation=fadeIn" alt="Banner" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1200&color=58A6FF&center=true&vCenter=true&width=620&lines=Estudante+de+Engenharia+de+Software;Desenvolvimento+Web+%26+Back-end;Apaixonado+por+aprender+e+construir;Ingl%C3%AAs+fluente+%F0%9F%87%BA%F0%9F%87%B8" alt="Typing animation"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=E50914&center=true&vCenter=true&width=640&lines=Estudante+de+Engenharia+de+Software;Desenvolvimento+Web+%26+Back-end;Apaixonado+por+aprender+e+construir;Ingl%C3%AAs+fluente+%F0%9F%87%BA%F0%9F%87%B8" alt="Typing animation"/>
+
+<br/><br/>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0D0D0D?style=for-the-badge&logo=linkedin&logoColor=E50914)](https://www.linkedin.com/in/victor-paula-3b6a603b3/)
+[![Instagram](https://img.shields.io/badge/Instagram-0D0D0D?style=for-the-badge&logo=instagram&logoColor=E50914)](https://www.instagram.com/victor3rp/)
+[![Gmail](https://img.shields.io/badge/Gmail-0D0D0D?style=for-the-badge&logo=gmail&logoColor=E50914)](mailto:victorreis200813@gmail.com)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-0D0D0D?style=for-the-badge&logo=whatsapp&logoColor=E50914)](https://wa.me/5531997777135)
 
 <br/>
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/victor-paula-3b6a603b3/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/victor3rp/)
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:victorreis200813@gmail.com)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5531997777135)
 
 🇧🇷 **Português** &nbsp;|&nbsp; [🇺🇸 English version ↓](#-english-version)
 
 </div>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:000000,50:E50914,100:000000" width="100%" alt=""/>
 
 ## 👋 Sobre mim
 
@@ -30,7 +32,7 @@ Estou construindo minha base em programação e desenvolvimento de software, cri
 - 🤝 Aberto a **estágios, projetos e networking**
 - 📫 Fale comigo: [victorreis200813@gmail.com](mailto:victorreis200813@gmail.com)
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:000000,50:E50914,100:000000" width="100%" alt=""/>
 
 ## 🛠️ Tecnologias e ferramentas
 
@@ -40,45 +42,45 @@ Estou construindo minha base em programação e desenvolvimento de software, cri
 
 </div>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:000000,50:E50914,100:000000" width="100%" alt=""/>
 
 ## 🚀 Projetos em destaque
 
 <div align="center">
 
-<a href="https://github.com/VCTRPL/Portfolio"><img src="https://github-readme-stats.vercel.app/api/pin/?username=VCTRPL&repo=Portfolio&theme=github_dark&hide_border=true" alt="Portfolio"/></a>
-<a href="https://github.com/VCTRPL/oficina-mecanica"><img src="https://github-readme-stats.vercel.app/api/pin/?username=VCTRPL&repo=oficina-mecanica&theme=github_dark&hide_border=true" alt="Oficina Mecânica"/></a>
+<a href="https://github.com/VCTRPL/Portfolio"><img src="https://github-readme-stats.vercel.app/api/pin/?username=VCTRPL&repo=Portfolio&bg_color=0D0D0D&title_color=E50914&text_color=F5F5F5&icon_color=E50914&border_color=E50914&hide_border=false" alt="Portfolio"/></a>
+<a href="https://github.com/VCTRPL/oficina-mecanica"><img src="https://github-readme-stats.vercel.app/api/pin/?username=VCTRPL&repo=oficina-mecanica&bg_color=0D0D0D&title_color=E50914&text_color=F5F5F5&icon_color=E50914&border_color=E50914&hide_border=false" alt="Oficina Mecânica"/></a>
 
-<a href="https://github.com/VCTRPL/JogoPy"><img src="https://github-readme-stats.vercel.app/api/pin/?username=VCTRPL&repo=JogoPy&theme=github_dark&hide_border=true" alt="JogoPy"/></a>
-<a href="https://github.com/VCTRPL/APIRESTful"><img src="https://github-readme-stats.vercel.app/api/pin/?username=VCTRPL&repo=APIRESTful&theme=github_dark&hide_border=true" alt="API RESTful"/></a>
+<a href="https://github.com/VCTRPL/JogoPy"><img src="https://github-readme-stats.vercel.app/api/pin/?username=VCTRPL&repo=JogoPy&bg_color=0D0D0D&title_color=E50914&text_color=F5F5F5&icon_color=E50914&border_color=E50914&hide_border=false" alt="JogoPy"/></a>
+<a href="https://github.com/VCTRPL/APIRESTful"><img src="https://github-readme-stats.vercel.app/api/pin/?username=VCTRPL&repo=APIRESTful&bg_color=0D0D0D&title_color=E50914&text_color=F5F5F5&icon_color=E50914&border_color=E50914&hide_border=false" alt="API RESTful"/></a>
 
 </div>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:000000,50:E50914,100:000000" width="100%" alt=""/>
 
 ## 📊 Estatísticas do GitHub
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=VCTRPL&show_icons=true&theme=github_dark&hide_border=true&count_private=true" alt="Estatísticas"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VCTRPL&layout=compact&theme=github_dark&hide_border=true" alt="Linguagens mais usadas"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=VCTRPL&show_icons=true&bg_color=0D0D0D&title_color=E50914&text_color=F5F5F5&icon_color=E50914&ring_color=E50914&border_color=E50914&count_private=true" alt="Estatísticas"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VCTRPL&layout=compact&bg_color=0D0D0D&title_color=E50914&text_color=F5F5F5&border_color=E50914" alt="Linguagens mais usadas"/>
 
 </div>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:000000,50:E50914,100:000000" width="100%" alt=""/>
 
 ## 📬 Vamos conversar?
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Conectar-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/victor-paula-3b6a603b3/)
-[![Instagram](https://img.shields.io/badge/Instagram-Seguir-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/victor3rp/)
-[![Gmail](https://img.shields.io/badge/E--mail-Enviar-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:victorreis200813@gmail.com)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-Chamar-25D366?style=flat-square&logo=whatsapp&logoColor=white)](https://wa.me/5531997777135)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Conectar-E50914?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/victor-paula-3b6a603b3/)
+[![Instagram](https://img.shields.io/badge/Instagram-Seguir-E50914?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/victor3rp/)
+[![Gmail](https://img.shields.io/badge/E--mail-Enviar-E50914?style=for-the-badge&logo=gmail&logoColor=white)](mailto:victorreis200813@gmail.com)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-Chamar-E50914?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5531997777135)
 
 </div>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:000000,50:E50914,100:000000" width="100%" alt=""/>
 
 ## 🇺🇸 English version
 
@@ -118,9 +120,11 @@ HTML · CSS · JavaScript · Java · Python · Node.js · Git · GitHub
 
 </details>
 
+<br/>
+
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:0D1117,50:1F6FEB,100:58A6FF&section=footer" alt="Footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=110&color=0:E50914,50:5C0000,100:000000&section=footer" alt="Footer" width="100%"/>
 
 </div>
 
