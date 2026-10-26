@@ -50,11 +50,11 @@ Estou construindo minha base em programação e desenvolvimento de software, cri
 
 <div align="center">
 
-<a href="https://github.com/VCTRPL/Portfolio"><img src="https://github-readme-stats.vercel.app/api/pin/?username=VCTRPL&repo=Portfolio&bg_color=0D0D0D&title_color=E50914&text_color=F5F5F5&icon_color=E50914&border_color=E50914&hide_border=false" alt="Portfolio"/></a>
-<a href="https://github.com/VCTRPL/oficina-mecanica"><img src="https://github-readme-stats.vercel.app/api/pin/?username=VCTRPL&repo=oficina-mecanica&bg_color=0D0D0D&title_color=E50914&text_color=F5F5F5&icon_color=E50914&border_color=E50914&hide_border=false" alt="Oficina Mecânica"/></a>
+<a href="https://github.com/VCTRPL/Portfolio-3D"><img src="https://github-readme-stats.vercel.app/api/pin/?username=VCTRPL&repo=Portfolio-3D&bg_color=0D0D0D&title_color=E50914&text_color=F5F5F5&icon_color=E50914&border_color=E50914&hide_border=false" alt="Portfólio 3D"/></a>
+<a href="https://github.com/VCTRPL/oi-veiculos"><img src="https://github-readme-stats.vercel.app/api/pin/?username=VCTRPL&repo=oi-veiculos&bg_color=0D0D0D&title_color=E50914&text_color=F5F5F5&icon_color=E50914&border_color=E50914&hide_border=false" alt="OI Veículos"/></a>
 
-<a href="https://github.com/VCTRPL/JogoPy"><img src="https://github-readme-stats.vercel.app/api/pin/?username=VCTRPL&repo=JogoPy&bg_color=0D0D0D&title_color=E50914&text_color=F5F5F5&icon_color=E50914&border_color=E50914&hide_border=false" alt="JogoPy"/></a>
-<a href="https://github.com/VCTRPL/APIRESTful"><img src="https://github-readme-stats.vercel.app/api/pin/?username=VCTRPL&repo=APIRESTful&bg_color=0D0D0D&title_color=E50914&text_color=F5F5F5&icon_color=E50914&border_color=E50914&hide_border=false" alt="API RESTful"/></a>
+<a href="https://github.com/VCTRPL/jogo-roblox"><img src="https://github-readme-stats.vercel.app/api/pin/?username=VCTRPL&repo=jogo-roblox&bg_color=0D0D0D&title_color=E50914&text_color=F5F5F5&icon_color=E50914&border_color=E50914&hide_border=false" alt="Roube um Ovo Brainrot"/></a>
+<a href="https://github.com/VCTRPL/JogoPy"><img src="https://github-readme-stats.vercel.app/api/pin/?username=VCTRPL&repo=JogoPy&bg_color=0D0D0D&title_color=E50914&text_color=F5F5F5&icon_color=E50914&border_color=E50914&hide_border=false" alt="Snakobra (JogoPy)"/></a>
 
 </div>
 
@@ -111,10 +111,11 @@ HTML · CSS · JavaScript · Java · Python · Node.js · Git · GitHub
 
 | Project | Description |
 | --- | --- |
-| [Portfolio](https://github.com/VCTRPL/Portfolio) | Personal portfolio |
-| [oficina-mecanica](https://github.com/VCTRPL/oficina-mecanica) | Auto repair shop system built with Java |
-| [JogoPy](https://github.com/VCTRPL/JogoPy) | Python game developed for an Introduction to Algorithms course |
-| [APIRESTful](https://github.com/VCTRPL/APIRESTful) | RESTful API project |
+| [Portfolio-3D](https://github.com/VCTRPL/Portfolio-3D) | Interactive 3D portfolio: a retro 80s office where my résumé runs inside the computer screen. Built with Three.js and React Three Fiber ([live](https://vctrpl.vercel.app)) |
+| [oi-veiculos](https://github.com/VCTRPL/oi-veiculos) | Website for a used-car dealership in Betim/MG, with inventory and WhatsApp contact. Built with React, TypeScript and Tailwind ([live](https://oi-veiculos.vercel.app)) |
+| [jogo-roblox](https://github.com/VCTRPL/jogo-roblox) | "Steal an Egg"-style simulator for Roblox, written in Luau |
+| [JogoPy](https://github.com/VCTRPL/JogoPy) | Snakobra, a Snake game in Python with Pygame, built for an Introduction to Algorithms course |
+
 
 ### 📬 Let's connect
 
